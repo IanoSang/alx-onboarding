@@ -1,0 +1,12 @@
+Receive any two number as input from user (at run-time) in any two variables say num1 and num2
+Calculate the square of both the number one by one and initialized its square to any two variables say sqr1 and sqr2
+That is num1*num1 gets initialized to sqr1 and num2*num2 gets initialized to sqr2
+Now calculate sum of two variable say sqr1 (square of first number) and sqr2 (square of second number)
+That is sqr1+sqr2 gets initialized to a variable say sum (holds summation value of square of the two given number)
+Print the value of sum at last of the program
+For example, if user enters 4 and 5 as input
+Therefore, num1 holds 4 and num2 holds 5
+Now num1*num1 or 4*4 or 16 gets initialized to sqr1
+And num2*num2 or 5*5 or 25 gets initialized to sqr2
+And sqr1+sqr2 or 16+25 or 41 gets initialized to sum
+Print the value of sum which is 41 as output
